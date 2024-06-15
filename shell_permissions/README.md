@@ -4,3 +4,5 @@ This script changes the user to another user "betty"
 This script displays the name of the current user
 4-empty:
 This script creates an empty file
+5-execute:
+This script an execution permission to a file hello
