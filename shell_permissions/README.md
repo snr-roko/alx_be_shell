@@ -5,4 +5,6 @@ This script displays the name of the current user
 4-empty:
 This script creates an empty file
 5-execute:
-This script an execution permission to a file hello
+This script creates an execution permission to a file hello
+6-multiple_permissions:
+This script creates a multiple permission to a file hello
